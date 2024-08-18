@@ -3,6 +3,6 @@ This project demonstrates how to build a recommendation system using the LightFM
 
 ##Dependencies
 
-numpy (http://www.numpy.org/)
-scipy (https://www.scipy.org/)
-lightfm (https://github.com/lyst/lightfm)
+1. numpy (http://www.numpy.org/)
+2. scipy (https://www.scipy.org/)
+3. lightfm (https://github.com/lyst/lightfm)
